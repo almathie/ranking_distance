@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    ranking_distance (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+    rspec-core (3.12.2)
+      rspec-support (~> 3.12.0)
+    rspec-support (3.12.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rake (~> 13.0)
+  ranking_distance!
+  rspec-core (~> 3.12)
+
+BUNDLED WITH
+   2.3.5
